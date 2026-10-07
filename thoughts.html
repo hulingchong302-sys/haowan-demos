@@ -2,69 +2,15 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-<meta name="theme-color" content="#f7f3ee" />
-<title data-i18n="title.thoughts">全部思考 · 好玩的东西</title>
-<meta name="description" content="关于意图、数据、安全、人性、组织与开发流程的全部思考——有原文，也有可边玩边读的互动版。" />
-<link rel="stylesheet" href="assets/style.css" />
-<script src="assets/i18n.js"></script>
-<script>document.documentElement.classList.add('nav-ready')</script>
-<script defer src="assets/site.js"></script>
-<script defer src="assets/feedback.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>全部思考 · 胡凌冲</title>
+<link rel="canonical" href="https://lingchonghu.com/thoughts/" />
+<meta name="robots" content="noindex, follow" />
+<meta http-equiv="refresh" content="0; url=https://lingchonghu.com/thoughts/" />
+<script>location.replace('https://lingchonghu.com/thoughts/' + location.hash);</script>
 </head>
 <body>
-
-<nav class="nav">
-  <div class="wrap">
-    <a class="brand" href="index.html" data-i18n="nav.brand">好玩的东西</a>
-    <div class="nav-links">
-      <a href="index.html#projects" data-i18n="nav.featured">精选</a>
-      <a href="demos.html" data-i18n="nav.allDemos">全部 Demo</a>
-      <a href="ongoing.html" data-i18n="nav.ongoing">在建项目</a>
-      <a href="thoughts.html" data-i18n="nav.allThoughts">全部思考</a>
-      <a href="index.html#about" data-i18n="nav.about">关于</a>
-      <a href="index.html#contact" data-i18n="nav.contact">联系</a>
-      <span class="lang-toggle" role="group" aria-label="Language">
-        <button type="button" data-lang-btn="en">EN</button>
-        <button type="button" data-lang-btn="zh">中文</button>
-      </span>
-    </div>
-  </div>
-</nav>
-
-<header class="hero wrap" style="padding-bottom:18px">
-  <div class="kicker" data-i18n="th.kicker">全部思考 · 关于 AI 怎么落地</div>
-  <h1 data-i18n="th.h1">全部思考</h1>
-  <p class="lede" id="lede"></p>
-</header>
-
-<section class="wrap" style="padding-top:0">
-  <div class="thoughts" id="grid"></div>
-</section>
-
-<footer>
-  <div class="wrap">
-    <p><a href="index.html" data-i18n="demos.back">← 回到首页</a></p>
-  </div>
-</footer>
-
-<script src="data.js"></script>
-<script>
-  const T = ((window.SITE || {}).thoughts) || [];
-  const $ = id => document.getElementById(id);
-
-  $("lede").textContent = window.LANG === 'en'
-    ? `${T.length} essays on entrepreneurship, intent, data, safety, human nature, org design, and the dev process — most with a play-along interactive version.`
-    : `${T.length} 篇关于创业、意图、数据、安全、人性、组织与开发流程的思考——多数附一个可「边玩边读」的互动版。`;
-
-  $("grid").innerHTML = T.map(t => {
-    const badge = t.play ? `<span class="play-badge">${window.t('th.badge')}</span>` : "";
-    const go = t.play ? window.t('th.play') : window.t('th.read');
-    return `<a class="tcard" href="${t.play || t.href}">
-      <div class="ck">${t.kicker}</div>
-      <h3>${t.title}${badge}</h3><p>${t.desc}</p>
-      <div class="go">${go}</div></a>`;
-  }).join("");
-</script>
+<!-- 2026-10-06：思考栏目已迁移到主站 lingchonghu.com/thoughts/，此页只做跳转，保留旧链接可用 -->
+<p>这篇已经搬到 <a href="https://lingchonghu.com/thoughts/">https://lingchonghu.com/thoughts/</a>。This essay has moved.</p>
 </body>
 </html>

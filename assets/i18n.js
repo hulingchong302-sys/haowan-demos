@@ -130,8 +130,8 @@
                     en: 'This is not methodology for its own sake. It lives in every concrete project: how to break needs down, how to make sure someone can answer for the code AI writes, how to turn one person&rsquo;s experience into the whole team&rsquo;s shared knowledge. We wrote this approach up in <a href="thoughts/dev-process.html" style="color:var(--accent)">An accountable development process</a>.' },
 
     'team.s2.h2': { zh: '我们怎么组队', en: 'How we team up' },
-    'team.s2.p':  { zh: '一支精英敏捷团队，由两半焊在一起——这也是<a href="thoughts/ai-org.html" style="color:var(--accent)">为什么律所那套结构，恰好是 AI 时代最对的答案</a>。',
-                    en: 'An elite, agile team, welded together from two halves — which is also <a href="thoughts/ai-org.html" style="color:var(--accent)">why the law-firm structure turns out to be the right answer for the AI era</a>.' },
+    'team.s2.p':  { zh: '一支精英敏捷团队，由两半焊在一起——这也是<a href="https://lingchonghu.com/thoughts/ai-org.html" style="color:var(--accent)">为什么律所那套结构，恰好是 AI 时代最对的答案</a>。',
+                    en: 'An elite, agile team, welded together from two halves — which is also <a href="https://lingchonghu.com/thoughts/ai-org.html" style="color:var(--accent)">why the law-firm structure turns out to be the right answer for the AI era</a>.' },
     'team.role1.rn': { zh: '需求 · 市场 · 客户侧', en: 'Needs · market · customer side' },
     'team.role1.rk': { zh: '合伙人角色', en: 'The partner' },
     'team.role1.p':  { zh: '带来需求、市场与客户，以及打通一个新商业模式所需的资源和社会能力。听得懂客户真正要什么，并替整个结果负责。',

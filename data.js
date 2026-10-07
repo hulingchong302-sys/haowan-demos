@@ -47,8 +47,8 @@ window.SITE = {
       kicker: "Thinking · 创业",
       title: "沙滩中央的冰淇淋摊",
       desc: "硅谷式融资如何倒置了「先验证、再生长」的创业逻辑？当投资人、创始人和人才都在理性地追逐最优解，为什么最后可能合成一场集体归零。这是我这几年走过、看过、踩过之后的现场笔记。",
-      href: "thoughts/beach-stall.html",
-      play: "thoughts/beach-stall-play.html",
+      href: "https://lingchonghu.com/thoughts/beach-stall.html",
+      play: "https://lingchonghu.com/thoughts/beach-stall-play.html",
       featured: true,
       date: "2026-07-30"
     },
@@ -56,45 +56,45 @@ window.SITE = {
       kicker: "Thinking · 意图",
       title: "意图，才是下一个输入",
       desc: "脑机接口、眼动、语音、肌电……炫酷的新输入设备，都败给了同一件事——习惯的惯性。真正的胜负手不在换设备，在读懂你此刻想做什么。这就是 intnt。",
-      href: "thoughts/intent.html",
-      play: "thoughts/intent-play.html",
+      href: "https://lingchonghu.com/thoughts/intent.html",
+      play: "https://lingchonghu.com/thoughts/intent-play.html",
       featured: true
     },
     {
       kicker: "Thinking · 数据",
       title: "你的数据，预言你的明天",
       desc: "每一次点击、停留、深夜的搜索，都是一次「意图的泄露」。把碎片拼起来，就能在你开口之前知道你要什么——这就是预测式商业，和它那条很细的边界。",
-      href: "thoughts/data-future.html",
-      play: "thoughts/data-future-play.html"
+      href: "https://lingchonghu.com/thoughts/data-future.html",
+      play: "https://lingchonghu.com/thoughts/data-future-play.html"
     },
     {
       kicker: "Thinking · 安全",
       title: "当攻防都变便宜",
       desc: "你过去的安全感，多半是「攻击你不划算」撑起来的。AI 把攻击成本打到地板，也把防御成本打到地板——危险的不是技术，是天平倒向谁。",
-      href: "thoughts/safety.html",
-      play: "thoughts/safety-play.html"
+      href: "https://lingchonghu.com/thoughts/safety.html",
+      play: "https://lingchonghu.com/thoughts/safety-play.html"
     },
     {
       kicker: "Thinking · 人性",
       title: "需求，挖到人性那一层",
       desc: "用户嘴上要的，从来不是 ta 真正要的。把需求一层层挖到底层人性，你会发现：表层千变万化，底层就那么几根弦——而 AI 改变的，是拨弦的方式，不是弦本身。",
-      href: "thoughts/human-needs.html",
-      play: "thoughts/human-needs-play.html"
+      href: "https://lingchonghu.com/thoughts/human-needs.html",
+      play: "https://lingchonghu.com/thoughts/human-needs-play.html"
     },
     {
       kicker: "Thinking · 组织",
       title: "AI 时代的组织架构",
       desc: "代码变便宜后，胜负手是「需求洞察 + 完整交付」的结合——而这两样几乎从不长在同一个人身上。为什么律所的结构，恰好是这个时代最对的答案。",
-      href: "thoughts/ai-org.html",
+      href: "https://lingchonghu.com/thoughts/ai-org.html",
       // play：互动版（explorable）。卡片默认进互动版，并显示「✦ 互动版」角标；无此字段则只进 href 原文。
-      play: "thoughts/ai-org-play.html"
+      play: "https://lingchonghu.com/thoughts/ai-org-play.html"
     },
     {
       kicker: "Thinking · 流程",
       title: "可问责的开发流程",
       desc: "「为它负责」到底是什么意思？从 AI 生成到敢交付，中间那道坎，用「自己懂」还是「独立验证」来跨——这是我们每个项目都在反复做的判断。",
-      href: "thoughts/dev-process.html",
-      play: "thoughts/dev-process-play.html",
+      href: "https://lingchonghu.com/thoughts/dev-process.html",
+      play: "https://lingchonghu.com/thoughts/dev-process-play.html",
       featured: true
     }
   ],
@@ -1465,8 +1465,8 @@ window.SITE_EN = {
       kicker: "Thinking · Entrepreneurship",
       title: "The Ice-Cream Stalls in the Middle of the Beach",
       desc: "Why Silicon Valley-style fundraising inverts the logic of building — and how investors, founders, and talent can each act rationally yet add up to a collective zero. Field notes from what I have seen, tried, and learned.",
-      href: "thoughts/beach-stall.html",
-      play: "thoughts/beach-stall-play.html",
+      href: "https://lingchonghu.com/thoughts/beach-stall.html",
+      play: "https://lingchonghu.com/thoughts/beach-stall-play.html",
       featured: true,
       date: "2026-07-30"
     },
@@ -1474,44 +1474,44 @@ window.SITE_EN = {
       kicker: "Thinking · Intent",
       title: "Intent is the next input",
       desc: "Brain-computer interfaces, eye tracking, voice, EMG — every flashy new input modality runs into the same wall: the weight of habit. The real game isn't swapping hardware; it's reading what you actually want to do right now. That's intnt.",
-      href: "thoughts/intent.html",
-      play: "thoughts/intent-play.html",
+      href: "https://lingchonghu.com/thoughts/intent.html",
+      play: "https://lingchonghu.com/thoughts/intent-play.html",
       featured: true
     },
     {
       kicker: "Thinking · Data",
       title: "Your data predicts your tomorrow",
       desc: "Every click, every dwell, every late-night search is a leak of intent. Stitch the fragments together and you can know what someone wants before they ask. That's predictive commerce — and the very thin line that runs through it.",
-      href: "thoughts/data-future.html",
-      play: "thoughts/data-future-play.html"
+      href: "https://lingchonghu.com/thoughts/data-future.html",
+      play: "https://lingchonghu.com/thoughts/data-future-play.html"
     },
     {
       kicker: "Thinking · Security",
       title: "When attack and defense both get cheap",
       desc: "Most of the security you've enjoyed was underwritten by one fact: attacking you wasn't worth it. AI has floored the cost of attack — and also the cost of defense. The danger isn't the technology; it's which side the scales tip toward.",
-      href: "thoughts/safety.html",
-      play: "thoughts/safety-play.html"
+      href: "https://lingchonghu.com/thoughts/safety.html",
+      play: "https://lingchonghu.com/thoughts/safety-play.html"
     },
     {
       kicker: "Thinking · Human nature",
       title: "Requirements, dug down to human nature",
       desc: "What users say they want is never what they actually want. Peel the requirement back layer by layer and you find: the surface varies endlessly, but there are only a handful of strings underneath. AI changes how those strings get plucked — not the strings themselves.",
-      href: "thoughts/human-needs.html",
-      play: "thoughts/human-needs-play.html"
+      href: "https://lingchonghu.com/thoughts/human-needs.html",
+      play: "https://lingchonghu.com/thoughts/human-needs-play.html"
     },
     {
       kicker: "Thinking · Org design",
       title: "Org structure for the AI era",
       desc: "Once code gets cheap, the decisive edge is the combination of 'deep demand insight + complete delivery' — and those two things almost never live in the same person. Why the structure of a law firm turns out to be exactly the right answer for this moment.",
-      href: "thoughts/ai-org.html",
-      play: "thoughts/ai-org-play.html"
+      href: "https://lingchonghu.com/thoughts/ai-org.html",
+      play: "https://lingchonghu.com/thoughts/ai-org-play.html"
     },
     {
       kicker: "Thinking · Process",
       title: "Accountable development",
       desc: "What does 'owning it' actually mean? Between AI-generated output and something you dare to ship, there is a gap. Whether you cross it by 'understanding it yourself' or by 'independent verification' — that is the judgment call we make on every project.",
-      href: "thoughts/dev-process.html",
-      play: "thoughts/dev-process-play.html",
+      href: "https://lingchonghu.com/thoughts/dev-process.html",
+      play: "https://lingchonghu.com/thoughts/dev-process-play.html",
       featured: true
     }
   ],
